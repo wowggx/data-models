@@ -1,0 +1,67 @@
+{
+  "Model": 0,
+  "Textures": null,
+  "Textures2": null,
+  "TextureFiles": {
+    "159189": [
+      {
+        "FileDataId": 1041087,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ]
+  },
+  "ModelFiles": null,
+  "Item": null,
+  "Creature": {
+    "CreatureGeosetData": null,
+    "CreatureGeosetDataID": 0,
+    "CreatureModelAlpha": 255,
+    "Texture": 159189,
+    "CreatureCustomizations": [
+      {
+        "optionId": 90,
+        "choiceId": 17810
+      },
+      {
+        "optionId": 91,
+        "choiceId": 17828
+      },
+      {
+        "optionId": 92,
+        "choiceId": 17831
+      },
+      {
+        "optionId": 93,
+        "choiceId": 17837
+      },
+      {
+        "optionId": 94,
+        "choiceId": 17848
+      }
+    ],
+    "ParticleColor": null
+  },
+  "Character": {
+    "RaceFlags": 0,
+    "ChrModelFlags": 3,
+    "Race": 8,
+    "Gender": 0,
+    "ChrModelId": 15
+  },
+  "ItemEffects": null,
+  "Equipment": {
+    "4": 10874,
+    "6": 10061,
+    "7": 10876,
+    "9": 8004,
+    "10": 8191
+  },
+  "ComponentTextures": null,
+  "ComponentModels": null,
+  "StateKit": null,
+  "StateKits": null,
+  "Scale": 1
+}
